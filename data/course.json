@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "83af459f-fdb1-2ef1-fdc5-660214632b8a",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "56ddca74-ad80-e279-ffe1-41ba2797655c",
+    "website": "21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004"
+  },
+  "course_title": "Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America",
+  "hide_download": true,
+  "course_description": "This seminar looks at two bestselling nineteenth-century American authors whose works made the subject of slavery popular among mainstream readers. _Uncle Tom's Cabin_ by Harriet Beecher Stowe and _The Adventures of_ _Huckleberry Finn_ by Mark Twain have subsequently become canonized and reviled, embraced and banned by individuals and groups at both ends of the political and cultural spectrum and everywhere in between.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.702",
+  "course_image_thumbnail": {
+    "content": "6c78c307-cbf8-c964-959d-8e210097d7dc",
+    "website": "21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "0c676db6-6625-4afd-9afc-2cfa3884953a",
+  "site_short_id": "21l.702-fall-2004",
+  "site_url_path": "courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004",
+  "title": "Course Metadata"
+}
