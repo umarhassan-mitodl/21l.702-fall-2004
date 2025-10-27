@@ -7,46 +7,46 @@ ocw_type: CourseSection
 title: Related Resources
 uid: 6559d68d-c269-d4d1-a8d3-98161c0ad34b
 ---
-[MIT Guide to Citing Sources](http://www.online-literature.com/bulfinch/mythology_fable/0/)
+{{% resource_link "8ed91561-7904-4d4c-aef8-94cf68ff24d7" "MIT Guide to Citing Sources" %}}
 
-[Bulfinch's Mythology](http://www.gutenberg.org/ebooks/4928)
+{{% resource_link "6423c489-44e1-44e8-b95e-c374c849a9c8" "Bulfinch's Mythology" %}}
 
-[Library of Congress: African American Odyssey](http://memory.loc.gov/ammem/aaohtml/exhibit/aointro.html)
+{{% resource_link "1c35c1d0-4805-4488-8d72-571f0cc8bd79" "Library of Congress: African American Odyssey" %}}
 
-[Cornell University Library: Abolitionism in America](http://rmc.library.cornell.edu/abolitionism/index.htm)
+{{% resource_link "c3c806b2-7349-4bcc-b269-dc80e6c85be7" "Cornell University Library: Abolitionism in America" %}}
 
-[University Library at University of North Carolina at Chapel Hill: Documenting the American South](http://docsouth.unc.edu/index.html)
+{{% resource_link "9a9a3ef8-4c88-41e4-a88a-e753f37f9340" "University Library at University of North Carolina at Chapel Hill: Documenting the American South" %}}
 
-[Library of Congress: Africans in America](https://www.loc.gov/collections/)
+{{% resource_link "4cb6e272-358e-4059-af06-92506d54351c" "Library of Congress: Africans in America" %}}
 
 ## Frederick Douglass
 
-[New York Public Library/Schomburg Images of African Americans from the 19th Century](http://digital.nypl.org/schomburg/images_aa19/)
+{{% resource_link "99740c3c-9e41-4517-a53c-335a8c9d5894" "New York Public Library/Schomburg Images of African Americans from the 19th Century" %}}
 
-[National Park Service Museum Collections: American Visionaries: Frederick Douglass](https://museum.nps.gov/ParkHdet.aspx?rID=FRDO%20Web-2%26db%3Dexhibt%26dir%3DCR%20AAWEB)
+{{% resource_link "d11d4607-a144-477a-a9ce-48ea1b19be76" "National Park Service Museum Collections: American Visionaries: Frederick Douglass" %}}
 
-[PBS: Africans in America](http://www.pbs.org/wgbh/aia/part4/4p1539.html)
+{{% resource_link "2c5f9321-941f-4e0e-bf4a-d8869fb29b72" "PBS: Africans in America" %}}
 
 ## Harriet Beecher Stowe
 
-[University of Virginia: Stowe Resources](https://utc.iath.virginia.edu/)
+{{% resource_link "c7ac7848-e065-48e8-9926-c5f5d62a291a" "University of Virginia: Stowe Resources" %}}
 
-[Harriet Beecher Stowe Center](https://www.harrietbeecherstowecenter.org/)
+{{% resource_link "e4c12064-602f-4a31-a613-0ab728feb2a8" "Harriet Beecher Stowe Center" %}}
 
 ## William Wells Brown
 
-[Cornell University Library/Abolitionism in America: William Wells Brown](http://rmc.library.cornell.edu/abolitionism/resistance/Brown.htm)
+{{% resource_link "c8d370f7-6277-418a-9158-31077b04382d" "Cornell University Library/Abolitionism in America: William Wells Brown" %}}
 
 ## Harriet Jacobs
 
-[University of Virginia: Jacobs Resources](http://xroads.virginia.edu/~HYPER/JACOBS/hjhome.htm)
+{{% resource_link "bc240649-5b6d-4d3c-879e-f23488cfaabe" "University of Virginia: Jacobs Resources" %}}
 
-[PBS: Harriet Jacobs](http://www.pbs.org/wgbh/aia/part4/4p2923.html)
+{{% resource_link "05cf8f94-6993-40c9-8e15-3997e13b1872" "PBS: Harriet Jacobs" %}}
 
 ## Samuel Clemens/Mark Twain
 
-[PBS: Mark Twain](http://www.pbs.org/marktwain/index.html)
+{{% resource_link "4ee5b2a3-2b59-4c95-8fc4-8e475510f846" "PBS: Mark Twain" %}}
 
-[University of Virginia: Mark Twain in His Times](https://twain.lib.virginia.edu/index2.html)
+{{% resource_link "fffc621b-afab-4c29-95e6-2a88e64231cc" "University of Virginia: Mark Twain in His Times" %}}
 
-[The Mark Twain House & Museum](http://www.marktwainhouse.org/)
+{{% resource_link "2e1ed7ad-5837-4a99-8b50-48c0778446b5" "The Mark Twain House & Museum" %}}
