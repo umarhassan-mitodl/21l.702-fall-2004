@@ -6,8 +6,6 @@ description: Harriet Beecher Stowe, ca. 1880. Mark Twain, ca. 1907. (Images cour
 file: /courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/2773337e60361b127eab1232661f993f_chp_stud_fiction.gif
 file_size: 78461
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
